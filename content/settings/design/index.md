@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
+icon = "/media/whatsapp-image-2021-08-11-at-23.24.58.jpeg"
 logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+image = "/media/whatsapp-image-2021-08-11-at-23.24.58.jpeg"
 color = "#5d9fbd"
 +++
