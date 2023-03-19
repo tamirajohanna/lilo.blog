@@ -5,8 +5,6 @@ draft = false
 pinned = false
 image = "titelbild.jpg"
 +++
-# Ist eine Sucht die Suche nach der eigenen Identität?
-
 {{<lead>}}
 
 Die ausgebildete Sozialarbeiterin Heidi Chalupny äussert sich zu ihrer Arbeit bei Contact Bern. Contact Bern gehört in der Drogenpolitik Schweiz zur Schadensminderung und bietet Menschen in der Drogensucht einen sicheren Konsumraum.
@@ -43,17 +41,11 @@ Man darf Erfolge nicht mit Abstinenz gleichsetzen, dann wären die Erfolgschance
 
 Die schwierigen Augenblicke sind, wenn man jemandem zusehen muss, dem es immer schlechter geht. Das ist schwer auszuhalten, denn man hat das Gefühl, dass die Person etwas ändern sollte. Wir haben aber nicht die Autorität oder Macht- wir dürfen diesen Menschen nichts vorschreiben. Auch schwierig ist es, wenn wir sehen, dass jemand sehr krank ist und man weiss, dass diese Person nie mehr gesund wird. Also wenn es in eine Sterbebegleitung reingeht, das ist hart mitzuerleben. Das klingt jetzt alles so schwer, aber es gibt jeden Tag auch so schöne Begegnungen. Es gibt Menschen, die es cool finden, wenn ich in der Schicht bin, wenn wir reden können oder wenn wir zusammen Kaffeetrinken können, dann finden sie das grossartig. 
 
-
-
 {{<box>}}
 
 Heidi Chalupny ist ausgebildete Sozialarbeiterin. Seit 14.5 Jahren arbeitet sie bei «Contact Bern». Seit letztem Juni ist sie stellvertretende Betriebsleiterin. Die Arbeit bei Contact macht ihr Spass und sie kann sich momentan nichts anderes vorstellen. Vor ihrem Sozialstudium hat sie eine Ausbildung zur Pflegefachfrau gemacht. Sie hat schon früh ein Interesse für das Thema Drogen und Menschen entwickelt.
 
 {{</box>}}
-
-
-
-
 
 **Es scheint, als wäre Sucht immer noch ein Tabuthema in unserer Gesellschaft, wie nimmst du das wahr?** 
 
@@ -66,8 +58,6 @@ Schweizweit ist es so, dass Frauen nur ungefähr ¼ der Drogenszene ausmachen. M
 **Was würdest du uns gerne noch zu dem Thema sagen oder auf den Weg geben, wie wir als Individuen und als Gesellschaft mit der Problematik und den Betroffenen umgehen können?** 
 
 Die Stigmatisierung, ich wünschte mir, die höre auf. Es gibt nicht nur den Drogenkonsument oder die Drogenkonsumentin. Jeder Mensch ist anders. Wer hat es schon gerne, in eine Schublade gesteckt zu werden. Die Menschen, die bei uns sind, haben die Überschneidung Drogen, aber untereinander sind sie extrem unterschiedlich. Den Strafregisterauszug, den weiss ich nicht von allen. Wenn ich es wüsste, wäre ich bei gewissen schon schockiert. Es gibt Menschen, die wirklich schlimme Sachen gemacht haben, aber im Kontakt mit mir sind sie völlig anständig. Da muss man manchmal schon bisschen unterscheiden zwischen Tat und Täter oder Tat und Täterin. Nur weil jemand ein Gewaltdelikt verübt hat, ist der Mensch nicht automatisch ein Gewalttäter oder eine Gewalttäterin… 
-
-
 
 **Ist Sucht eine Suche nach der eigenen Identität?** 
 
