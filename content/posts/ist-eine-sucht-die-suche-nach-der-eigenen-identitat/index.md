@@ -24,8 +24,6 @@ Das ist sehr vielfältig. Zum Teil sind es Biografien, die Menschen haben, die w
 
 Ich habe das Gefühl es kann jeden treffen! Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte. Es gibt Menschen mit starken Schmerzen, die Heroin konsumieren, welches ein starkes Schmerzmedikament ist, weil ihre Schmerzen nicht auszuhalten sind. Meiner Meinung nach ist ein stabiles Umfeld eine riesige Unterstützung, dass eine Sucht nicht entsteht. Je nach Situation ist es schwierig, dem Konsum zu widerstehen, da Gruppendruck vorhanden ist. Da ist es eine Charakterfrage. 
 
-
-
 > Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte.
 
 **Wie weit kann man einem Menschen in einer Sucht helfen?** 
@@ -39,6 +37,18 @@ Man darf Erfolge nicht mit Abstinenz gleichsetzen, dann wären die Erfolgschance
 **Was sind die schwierigsten und was die schönsten Situationen in deiner Arbeit mit den Klienten und Klientinnen?**
 
 Die schwierigen Augenblicke sind, wenn man jemandem zusehen muss, dem es immer schlechter geht. Das ist schwer auszuhalten, denn man hat das Gefühl, dass die Person etwas ändern sollte. Wir haben aber nicht die Autorität oder Macht- wir dürfen diesen Menschen nichts vorschreiben. Auch schwierig ist es, wenn wir sehen, dass jemand sehr krank ist und man weiss, dass diese Person nie mehr gesund wird. Also wenn es in eine Sterbebegleitung reingeht, das ist hart mitzuerleben. Das klingt jetzt alles so schwer, aber es gibt jeden Tag auch so schöne Begegnungen. Es gibt Menschen, die es cool finden, wenn ich in der Schicht bin, wenn wir reden können oder wenn wir zusammen Kaffeetrinken können, dann finden sie das grossartig. 
+
+
+
+{{<box>}}
+
+Heidi Chalupny ist ausgebildete Sozialarbeiterin. Seit 14.5 Jahren arbeitet sie bei «Contact Bern». Seit letztem Juni ist sie stellvertretende Betriebsleiterin. Die Arbeit bei Contact macht ihr Spass und sie kann sich momentan nichts anderes vorstellen. Vor ihrem Sozialstudium hat sie eine Ausbildung zur Pflegefachfrau gemacht. Sie hat schon früh ein Interesse für das Thema Drogen und Menschen entwickelt.
+
+{{</box>}}
+
+
+
+
 
 **Es scheint, als wäre Sucht immer noch ein Tabuthema in unserer Gesellschaft, wie nimmst du das wahr?** 
 
@@ -56,16 +66,8 @@ Die Stigmatisierung, ich wünschte mir, die höre auf. Es gibt nicht nur den Dro
 
 Ich habe manchmal das Gefühl, dass Jugendliche, die auf der Suche nach sich selbst sind, viele Substanzen ausprobieren. Es gibt jedoch auch Menschen, die Drogen als Medizin brauchen. Was wir häufig haben, sind Menschen mit ADHS, die Kokain konsumieren, weil dies ein bisschen wie Ritalin wirkt. Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst. Es gibt auch psychiatrische Diagnosen, wo nicht klar ist, ob die Drogenabhängigkeit oder das psychische Problem zuerst da war.
 
-
-
 > Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst.
 
 ![]()
 
-```
-
-```
-
-```
-
-```
+![]()
