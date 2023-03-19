@@ -3,6 +3,7 @@ title = "Ist eine Sucht die Suche nach der eigenen Identität?"
 date = "2023-03-19"
 draft = false
 pinned = false
+image = "titelbild.jpg"
 +++
 # Ist eine Sucht die Suche nach der eigenen Identität?
 
