@@ -12,6 +12,8 @@ Die ausgebildete Sozialarbeiterin Heidi Chalupny äussert sich zu ihrer Arbeit b
 
 {{</lead>}}
 
+![Raum für selbstständige intravenöse Injektionen](bild-2.jpg)
+
 **Wie hat die Arbeit bei Contact deine Sicht auf legale und illegale Drogen verändert?** 
 
 Hier haben wir vor allem mit illegalen Substanzen zu tun, welche medial stark verschrien sind. Ich habe jedoch mit anderen Beratungsstellen Kontakt, die Alkohol als Schwerpunkt haben. Diese werden überrannt von Menschen, die Unterstützung brauchen. Alkohol macht massive Probleme, körperlich als auch psychische, auch hat es grosse Auswirkungen auf das soziale Umfeld. Da frage ich mich, wie sinnvoll diese Trennung zwischen legalen und illegalen Substanzen ist. Dazu kommt, dass unabhängig welcher Substanz man nachrennt, die Sucht und der Stress gleich sind. 
@@ -33,6 +35,8 @@ Das ist schwer. Wenn eine Person nicht aufhören möchte zu konsumieren, kann ma
  **Woran machst du Erfolge deiner Arbeit fest, und welche Ziele sind realistisch zu erreichen?** 
 
 Man darf Erfolge nicht mit Abstinenz gleichsetzen, dann wären die Erfolgschancen bei uns gleich null. Das Problem ist, dass wir die Leute hier nur sehen, wenn sie konsumieren. Während all den Jahren, in denen ich hier arbeite, sind x Leute nicht mehr gekommen. In den meisten Fällen weiss ich nicht, weshalb sie nicht mehr kommen. Manche tauchen wieder auf und sagen, dass sie im Gefängnis waren, andere waren im Entzug und haben es nicht geschafft, wieder andere sind vielleicht sogar gestorben. Meine Erfolge sind die kleinen Sachen. Zum Beispiel wenn es Leuten sehr schlecht ging und es ihnen plötzlich wieder besser geht, da bin ich schon sehr froh. Unsere Leute kommen nicht wegen mir hierher, sie kommen wegen dem Konsum.
+
+![Ausgabe der sterilen Konsummaterialien ](bild-1.jpg)
 
 **Was sind die schwierigsten und was die schönsten Situationen in deiner Arbeit mit den Klienten und Klientinnen?**
 
@@ -62,12 +66,10 @@ Schweizweit ist es so, dass Frauen nur ungefähr ¼ der Drogenszene ausmachen. M
 
 Die Stigmatisierung, ich wünschte mir, die höre auf. Es gibt nicht nur den Drogenkonsument oder die Drogenkonsumentin. Jeder Mensch ist anders. Wer hat es schon gerne, in eine Schublade gesteckt zu werden. Die Menschen, die bei uns sind, haben die Überschneidung Drogen, aber untereinander sind sie extrem unterschiedlich. Den Strafregisterauszug, den weiss ich nicht von allen. Wenn ich es wüsste, wäre ich bei gewissen schon schockiert. Es gibt Menschen, die wirklich schlimme Sachen gemacht haben, aber im Kontakt mit mir sind sie völlig anständig. Da muss man manchmal schon bisschen unterscheiden zwischen Tat und Täter oder Tat und Täterin. Nur weil jemand ein Gewaltdelikt verübt hat, ist der Mensch nicht automatisch ein Gewalttäter oder eine Gewalttäterin… 
 
+
+
 **Ist Sucht eine Suche nach der eigenen Identität?** 
 
 Ich habe manchmal das Gefühl, dass Jugendliche, die auf der Suche nach sich selbst sind, viele Substanzen ausprobieren. Es gibt jedoch auch Menschen, die Drogen als Medizin brauchen. Was wir häufig haben, sind Menschen mit ADHS, die Kokain konsumieren, weil dies ein bisschen wie Ritalin wirkt. Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst. Es gibt auch psychiatrische Diagnosen, wo nicht klar ist, ob die Drogenabhängigkeit oder das psychische Problem zuerst da war.
 
 > Es gibt Menschen, die konsumieren, um Traumata zu verdrängen, sie sind nicht auf der Suche nach sich selbst.
-
-![]()
-
-![]()
