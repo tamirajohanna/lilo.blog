@@ -33,7 +33,7 @@ Da drängt sich die Frage auf, wie es so weit kommen kann, dass eine Droge diese
 
 {{<box>}}
 
-Laut dem ICD-11 (International Statistical Classification of Diseases and Related Health Problems) gelten Menschen als drogenabhängig, wenn mindestens zwei der folgenden Kriterien im Zeitraum von mindestens 12 Monaten auftreten. Als Kriterien gelten, einen Kontrollverlust über den Konsum erlebt zu haben, die Droge einen immer höheren Stellenwert im Leben einnimmt und die betroffene Person immer mehr von dieser Substanz benötigen, da sie eine gewisse Toleranz entwickelt.
+Laut dem ICD-11 (International Statistical Classification of Diseases and Related Health Problems) gelten Menschen als drogenabhängig, wenn mindestens zwei der folgenden Kriterien im Zeitraum von mindestens 12 Monaten auftreten. Als Kriterien gelten, einen Kontrollverlust über den Konsum erlebt zu haben, die Droge einen immer höheren Stellenwert im Leben einnimmt und die betroffene Person immer mehr von dieser Substanz benötigen, da sie eine gewisse Toleranz entwickelt.
 
 {{<box>}}
 
