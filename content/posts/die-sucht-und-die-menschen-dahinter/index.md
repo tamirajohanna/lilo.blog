@@ -35,8 +35,12 @@ Da drängt sich die Frage auf, wie es so weit kommen kann, dass eine Droge diese
 
 Laut dem ICD-11 (International Statistical Classification of Diseases and Related Health Problems) gelten Menschen als drogenabhängig, wenn mindestens zwei der folgenden Kriterien im Zeitraum von mindestens 12 Monaten auftreten. Als Kriterien gelten, einen Kontrollverlust über den Konsum erlebt zu haben, die Droge einen immer höheren Stellenwert im Leben einnimmt und die betroffene Person immer mehr von dieser Substanz benötigen, da sie eine gewisse Toleranz entwickelt.
 
-{{<box>}}
 
-####  Liebe und Empathie im gemeinsamen Umgang
+
+{{</box>}}
+
+
+
+#### Liebe und Empathie im gemeinsamen Umgang
 
 Es berührt, mit wieviel Liebe, Leidenschaft und Empathie Heidi über ihre Arbeit mit süchtigen Menschen spricht. Es ist spürbar, wieviel Energie und Kraft sie in ihre Arbeit steckt. Dies bestätigt auch das Funkeln in ihren Augen, als sie erklärt, dass sie sich momentan keinen anderen Job vorstellen kann. Es ist ein schöner Kontrast, sie als eine so positive Person in einem kargen Raum wahrzunehmen. Ihre warmherzige Ausstrahlung vermittelt das Gefühl von Geborgenheit, welche die Klient\*innen sicherlich schätzen. Was Heidi immer sehr berührt, sind die positiven Rückmeldungen ihrer Klient\*innen, welche sich freuen, wenn sie Schicht hat, und ihr dies persönlich mitteilen. In ihren Schichten ist sie beim selbstständigen Konsum ihrer Klient*innen dabei, unterstützt aber auch die Betroffenen in ihrem alltäglichen Leben und hat immer ein offenes Ohr. Heidi kann jedoch nur so weit helfen, wie sie sich helfen lassen wollen. Der wichtigste Schritt aus der Sucht ist die Selbstmotivation der Menschen. Sie schafft es, diesen Ort und die betroffenen Menschen in einen warmen Blickwinkel zu rücken, und dennoch den Konsum als Problem und sehr schwierige, gefährliche Situation darzustellen. Der ätzende Geruch und das grelle Licht bleiben uns noch lange in Erinnerung, und doch hat Heidi Chalupny einen neuen Blickwinkel gegenüber Betroffenen ermöglicht und es geschafft, den Menschen eine Stimme zu geben
