@@ -1,5 +1,5 @@
 +++
-title = "Poetry Slam (erste Fassungen)"
+title = "Poetry Slam (erste Fassung)"
 date = "2023-05-25"
 draft = false
 pinned = false
