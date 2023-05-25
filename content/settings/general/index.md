@@ -1,7 +1,7 @@
 +++
 headless = true
 title = "Tamira Zorn"
-description = "Journalismusprojekt 2023"
+description = "Projekte "
 footerLeft = "Powered by 💛 and [Lilo.Blog](https://www.lilo.blog)"
 footerRight = "[🏷️ Tags](/tags/) | [🗃️ Archive](/posts/) | [📣 Social](https://www.lilo.blog)"
 +++
