@@ -3,6 +3,7 @@ title = "Poetry Slam (erste Fassungen)"
 date = "2023-05-25"
 draft = false
 pinned = false
+image = "r.jpeg"
 description = "Erste Poetry Slams von Tamira Zorn"
 +++
 ### Tausend Wörter
