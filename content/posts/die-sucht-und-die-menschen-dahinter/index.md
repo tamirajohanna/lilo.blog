@@ -19,9 +19,9 @@ Ein ätzender Geruch liegt in der Luft. Grelles Licht beleuchtet einen kahlen Ra
 
 #### Wie sich die Betroffenen fühlen
 
-Mit besorgter Miene erzählt sie, dass Menschen jedes Mal, wenn sie den Fussgängerstreifen, der zum Eingang führt, überqueren, enormen Stress oder Angst verspüren. Diese negativen Gefühle entstehen durch schräge Blicke, die sie kassieren oder durch die Furcht, gesichtet zu werden. Diese Situationen und Gefühle erleben vor allem Personen, die ein Doppelleben führen. Sie haben auf der einen Seite ein aktives Sozial- und Arbeitsleben, auf der anderen Seite führen sie ein Leben, geprägt durch ihren Konsum. Diese Parallelwelten lassen sich nicht gut vereinbaren, da in der Gesellschaft keine offene Kommunikation über solche Lebenssituationen herrscht. Es kommt eine bedrückte Stimmung auf, welche ins Herz trifft. Heidi ist der Meinung, dass wir alle mehr Verständnis, Offenheit und Toleranz für Menschen in einer solchen Lage aufbringen sollten. «Diese Stigmatisierung, ich wünschte mir, die höre auf», meinte Heidi auf die Frage, was sie sich von der Öffentlichkeit wünsche. Voller Mitgefühl und Enttäuschung berichtet sie, welche Beleidigungen sich ihre Klient*innen anhören müssen.
+Mit besorgter Miene erzählt sie, dass Menschen jedes Mal, wenn sie den Fussgängerstreifen, der zum Eingang führt, überqueren, enormen Stress oder Angst verspüren. Diese negativen Gefühle entstehen durch schräge Blicke, die sie kassieren, oder durch die Furcht, gesichtet zu werden. Diese Situationen und Gefühle erleben vor allem Personen, die ein Doppelleben führen. Sie haben auf der einen Seite ein aktives Sozial- und Arbeitsleben, auf der anderen Seite führen sie ein Leben, geprägt durch ihren Konsum. Diese Parallelwelten lassen sich nicht gut vereinbaren, da in der Gesellschaft keine offene Kommunikation über solche Lebenssituationen herrscht. Es kommt eine bedrückte Stimmung auf, welche ins Herz trifft. Heidi ist der Meinung, dass wir alle mehr Verständnis, Offenheit und Toleranz für Menschen in einer solchen Lage aufbringen sollten. «Diese Stigmatisierung, ich wünschte mir, die höre auf.» Voller Mitgefühl und Enttäuschung berichtet sie, welche Beleidigungen sich ihre Klient*innen anhören müssen.
 
-> «Diese Stigmatisierung, ich wünschte mir, die höre auf»
+> «Diese Stigmatisierung, ich wünschte mir, die höre auf.»
 
 ![Ausgabe der sterilen Konsummaterialien](bild-1.jpg)
 
@@ -29,17 +29,13 @@ Mit besorgter Miene erzählt sie, dass Menschen jedes Mal, wenn sie den Fussgän
 
 Da drängt sich die Frage auf, wie es so weit kommen kann, dass eine Droge diesen Platz im Leben eines Menschen einnimmt. Heidi seufzt und macht eine Pause. Da gibt es Unterschiede, von Menschen, die durch Ausprobieren hängengeblieben sind, die Droge als Medizin verwenden bis hin zu Menschen, die traumatische Erlebnisse verdrängen. Es ist schwierig, diese Frage allgemein zu beantworten, aber sie denkt, dass eine Drogensucht jeden/jede treffen kann. «Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte», gibt Heidi offen zu. Betroffenheit kommt auf, als sie erzählt, dass die Ausnutzung von Frauen auf dem Strich massiv ist. Frauen sind in der Drogenszene eine Minderheitsgruppe, welche häufig von sexualisierter und physischer Gewalt betroffen sind.
 
-> «Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte»
+> «Ich habe nicht das Gefühl, dass ich so ein starker Mensch bin, dass es mich nicht erwischen könnte.»
 
 {{<box>}}
 
-Laut dem ICD-11 (International Statistical Classification of Diseases and Related Health Problems) gelten Menschen als drogenabhängig, wenn mindestens zwei der folgenden Kriterien im Zeitraum von mindestens 12 Monaten auftreten. Als Kriterien gelten, einen Kontrollverlust über den Konsum erlebt zu haben, die Droge einen immer höheren Stellenwert im Leben einnimmt und die betroffene Person immer mehr von dieser Substanz benötigen, da sie eine gewisse Toleranz entwickelt.
-
-
+Laut dem ICD-11 (International Statistical Classification of Diseases and Related Health Problems) gelten Menschen als drogenabhängig, wenn mindestens zwei der folgenden Kriterien im Zeitraum von mindestens 12 Monaten auftreten. Als Kriterien gelten, einen Kontrollverlust über den Konsum zu erleben, die Droge einen immer höheren Stellenwert im Leben einnimmt und die betroffene Person immer mehr von dieser Substanz benötigten, da sie eine gewisse Toleranz entwickelt.
 
 {{</box>}}
-
-
 
 #### Liebe und Empathie im gemeinsamen Umgang
 
