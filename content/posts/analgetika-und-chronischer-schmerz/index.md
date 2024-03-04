@@ -11,7 +11,7 @@ In meiner Maturaarbeit werde ich mich auf den Umgang mit chronischen Schmerzen, 
 
 Der Übergang von akuten zu chronischen Schmerzen werde als fliessend erachtet. Dennoch spricht man meist von chronischen Schmerzen, wenn die Schmerzen mindestens 3 Monate andauern und fast ständig da sind oder häufiger wiederkehren. Häufig wird es als bio-psychosoziales Konstrukt beschrieben (Menche, Brandt 6 2013, S.37). „Nicht selten sind psychische und soziale Komponenten beteiligt.“ (Menche, Brandt 6 2013, S.37). Auf der unten aufgeführten Abbildung wird dieses Modell veranschaulicht.
 
-![](blog-graph-29.png "Abbildung 1: Chronische Schmerzen (Ursachen, Therapie), 2022. (Quelle: selfapy.com)")
+![Abbildung 1: Chronische Schmerzen (Ursachen, Therapie), 2022. (Quelle: selfapy.com)](blog-graph-29.png "Abbildung 1: Chronische Schmerzen (Ursachen, Therapie), 2022. (Quelle: selfapy.com)")
 
 „Anders als ein Antibiotikum, das eine Infektion heilt, bewirken Analgetika bei chronischen Schmerzen keine Heilung“ (Nicholas, Molloy et al. 2 2014, S88f). Hier stellt sich mir zum einen die Frage, was Heilung in diesem Kontext überhaupt bedeutet. Zum anderen scheinen mir Analgetika häufig insofern sinnvoll, dass man mit diesen Medikamenten die Negativspirale des Schmerzes durchbrechen kann und somit allenfalls Einfluss auf das Schmerzgedächtnis hätte. „Mit dem Begriff Schmerzgedächtnis bezeichnet man die biochemischen, funktionellen und morphologischen Veränderungen im zentralen Nervensystem, die durch wiederholte Schmerzerfahrungen entstehen.“ (Dr. Antwerpes/ Fink, 2019). Durch das Gespräch mit dem Assistenzart Dr. Lukas Margaroli kristallisierte sich jedoch heraus, dass Analgetika grundsätzlich keinen Einfluss auf das Schmerzgedächtnis haben. Vielmehr geht es laut Dr. Lukas Margaroli darum, den Alltag besser bewältigen zu können und das Schmerzniveau möglichst niedrig zu halten. Eine vollständige Heilung durch die reine Einnahme von Analgetika ist somit nicht möglich.
 
@@ -22,8 +22,6 @@ Bei (starken) chronischen Schmerzen seien Schmerzmittel unverzichtbar, um überh
 Eine multimodale Schmerztherapie scheint mir aus diesen Gründen sinnvoller als eine rein medikamentöse Behandlung von chronischen Schmerzen. So auch Dr. Christine Amrhein:
 
 „Dagegen haben Studien gezeigt, dass eine multimodale Schmerztherapie bei mehreren Formen chronischer Schmerzen die effektivste Behandlungsmethode ist. \[…] Bei der multimodalen Schmerztherapie werden verschiedene Behandlungselemente miteinander kombiniert. Dazu gehören eine medizinische Behandlung, Informationen über die Hintergründe des Schmerzes (Psychoedukation), Entspannungsverfahren, Psychotherapie, körperliche Aktivierung, Ergotherapie und eventuell weitere Ansätze wie Musik- oder Kunsttherapie.“ (Dr. Amrhein, 2016)
-
-
 
 Literaturverzeichnis
 
