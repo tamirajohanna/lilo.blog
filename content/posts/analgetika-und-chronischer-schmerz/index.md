@@ -3,7 +3,7 @@ title = "Analgetika und chronischer Schmerz"
 date = "2024-03-04"
 draft = false
 pinned = false
-image = "photo-1553465528-5a213ccc0c7b.avif"
+image = "screenshot-2024-03-04-195802.png"
 +++
 Sind Analgetika bei der Behandlung von chronischen Schmerzen sinnvoll? 
 
